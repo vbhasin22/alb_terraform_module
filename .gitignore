@@ -1,0 +1,8 @@
+#DS Store File
+.DS_Store
+
+#Terraform related ignores
+**/.terraform
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfvars
